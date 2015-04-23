@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Camera</string>
+
+    <string name="action_settings">הגדרות</string>
+    <string name="CameraButton">מצלמה</string>
+    <string name="secCameraButton">מצלמה מאובטחת</string>
+    <string name="explain">לחץ על הכפתור \"מצלמה\" ולאחר מכן בחר במצלמה המועדפת עליך ותבחר ב: \"תמיד\", תעשה אותו הדבר עם \"מצלמה מאובטחת\" על מנת לאפשר את הפעלת המצלמה גם כאשר יש סיסמה למסך הנעילה.</string>
+</resources>
